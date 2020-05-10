@@ -1,5 +1,4 @@
 #include "ui.h"
-
 using namespace ui;
 
 int main()
